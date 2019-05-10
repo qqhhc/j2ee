@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$/src/com/xmetc/project/dao/StudentDAO.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/xmetc/project/utils/DBUtil.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/dao/StudentDAO.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/dao/impl/StudentDAOImpl.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/entity/Student.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/service/StudentService.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/service/impl/StudentServiceImpl.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/utils/DBUtil.java" charset="UTF-8" />
+    <file url="PROJECT" charset="GBK" />
+  </component>
+</project>
